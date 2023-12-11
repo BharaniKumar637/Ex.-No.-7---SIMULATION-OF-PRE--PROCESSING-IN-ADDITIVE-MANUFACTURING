@@ -53,7 +53,7 @@
 
 
 ### Name: PYNAM VINODH
-### Register Number:23004069
+### Register Number:212223240131
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
