@@ -46,8 +46,8 @@
 ## Output:
 ![377776973-c2d900c0-258a-4984-9caa-11021a67a2d1](https://github.com/user-attachments/assets/99d522aa-f126-4e98-ab54-82b367e776ba)
 
-### Name: PYNAM VINODH
-### Register Number:212223240131
+### Name: BHARANI KUMAR J
+### Register Number:212224240024
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
